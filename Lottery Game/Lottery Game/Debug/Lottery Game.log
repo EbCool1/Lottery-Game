@@ -1,0 +1,4 @@
+﻿  Lottery Game.cpp
+C:\Users\Elliott\source\repos\Lottery Game\Lottery Game\Lottery Game.cpp(42,14): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\Elliott\source\repos\Lottery Game\Lottery Game\Lottery Game.cpp(148,17): warning C4129: ' ': unrecognized character escape sequence
+  Lottery Game.vcxproj -> C:\Users\Elliott\source\repos\Lottery Game\Debug\Lottery Game.exe
